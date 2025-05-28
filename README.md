@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello! 👋
 
+I'm an undergraduate CompE at RPI in Troy, NY, and I'm interested in embedded and control systems
 <!--
 **abouzk/abouzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
