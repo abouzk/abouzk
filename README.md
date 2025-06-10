@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm an undergraduate CompE at RPI in Troy, NY, and I'm interested in embedded and control systems
+I'm an undergraduate CompE at RPI in Troy, NY, and I'm interested in embedded and control systems. Long term, I will establish a career in green energy or medtech :)
 <!--
 **abouzk/abouzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
