@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm an undergraduate Computer and Systems Engineering student at RPI in Troy, NY, and I'm interested in embedded and control systems.
+I'm an undergraduate Computer and Systems Engineering student at Rensselaer Polytechnic Institute, and I'm interested in embedded and control systems.
 <!--
 **abouzk/abouzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
