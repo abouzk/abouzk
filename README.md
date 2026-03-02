@@ -2,7 +2,7 @@
 
 ### Computer & Systems Engineer | Sim-to-Real Architect | Trilingual (German/English/Arabic)
 
-I am a Systems Engineering student at **RPI** focused on **Safety Architectures** and **Robotics Simulation**. My goal is to bridge the gap between high-level path planning and low-level hardware safety, specifically for medical and industrial applications.
+I am a Systems Engineering student at **RPI** focused on **Safety Architectures** and **Robotics Simulation**. My goal is to bridge the gap between high-level path planning and low-level hardware safety, specifically for medical applications.
 
 
 ---
@@ -12,7 +12,6 @@ I am a Systems Engineering student at **RPI** focused on **Safety Architectures*
 **Simulation & Robotics**
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-22314E?style=flat&logo=ros&logoColor=white)
 ![Isaac Sim](https://img.shields.io/badge/Nvidia-Isaac_Sim-76B900?style=flat&logo=nvidia&logoColor=white)
-![MoveIt](https://img.shields.io/badge/MoveIt-Motion_Planning-blue)
 ![ABB](https://img.shields.io/badge/ABB-RobotStudio-FF9E00?style=flat)
 
 **Languages & Embedded**
@@ -31,7 +30,7 @@ I am a Systems Engineering student at **RPI** focused on **Safety Architectures*
 * **Key Feature:** Implement bilateral control loops for a Phantom Omni haptic device to enable low-latency teleoperation.
 * **Safety:** Integrated virtual fixtures to prevent manipulator collisions in a shared workspace.
 
-#### ⚡ ISO 10218 Automated Welding Cell
+#### ⚡ Semi-Automated Welding Cell
 *Capstone Design Project focusing on industrial safety architecture.*
 * **Stack:** ABB RobotStudio, RAPID, ISO Standards
 * **Key Feature:** Designed a complete Safety Requirements Specification (SRS) to mitigate thermal and arc hazards.
