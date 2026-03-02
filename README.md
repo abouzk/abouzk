@@ -4,7 +4,6 @@
 
 I am a Systems Engineering student at **RPI** focused on **Safety Architectures** and **Robotics Simulation**. My goal is to bridge the gap between high-level path planning and low-level hardware safety, specifically for medical and industrial applications.
 
-Currently designing the **Digital Twin for the Mercer X Lab**, translating abstract kinematic theory into real-time, safety-critical control loops.
 
 ---
 
@@ -26,10 +25,10 @@ Currently designing the **Digital Twin for the Mercer X Lab**, translating abstr
 
 ### 🚀 Featured Projects
 
-#### 🦾 Mercer X Lab Digital Twin
+#### Digital Twin
 *Architecting a high-fidelity educational module in Nvidia Isaac Sim.*
 * **Stack:** ROS 2 Humble, Nvidia Isaac Sim, Python
-* **Key Feature:** Implemented bilateral control loops for a Phantom Omni haptic device to enable low-latency teleoperation.
+* **Key Feature:** Implement bilateral control loops for a Phantom Omni haptic device to enable low-latency teleoperation.
 * **Safety:** Integrated virtual fixtures to prevent manipulator collisions in a shared workspace.
 
 #### ⚡ ISO 10218 Automated Welding Cell
