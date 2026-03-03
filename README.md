@@ -2,8 +2,7 @@
 
 ### Computer & Systems Engineer | Sim-to-Real Architect | Trilingual (German/English/Arabic)
 
-I am a Systems Engineering student at **RPI** focused on **Safety Architectures** and **Robotics Simulation**. My goal is to bridge the gap between high-level path planning and low-level hardware safety, specifically for medical applications.
-
+I am a Systems Engineering student at **RPI** focused on **Safety Architectures** and **Robotics Simulation**. My goal is to bridge the gap between high-level path planning and low-level hardware safety, specifically for medical and surgical applications.
 
 ---
 
@@ -24,11 +23,16 @@ I am a Systems Engineering student at **RPI** focused on **Safety Architectures*
 
 ### 🚀 Featured Projects
 
-#### Digital Twin
-*Architecting a high-fidelity educational module in Nvidia Isaac Sim.*
+#### 🤖 [Haptic Teleoperation & Digital Twin](https://github.com/abouzk/isaacsim-surgical-teleop)
+*Architecting a scalable, multi-phase teleoperation testbed in Nvidia Isaac Sim using ROS 2.*
 * **Stack:** ROS 2 Humble, Nvidia Isaac Sim, Python
-* **Key Feature:** Implement bilateral control loops for a Phantom Omni haptic device to enable low-latency teleoperation.
-* **Safety:** Integrated virtual fixtures to prevent manipulator collisions in a shared workspace.
+* **Key Feature:** Engineered a flexible input pipeline, currently mapping multi-modal inputs (keyboard, Xbox controller, and 3-DOF Novint Falcon) to a robotic digital twin.
+* **Safety:** Implementing virtual fixture algorithms to prevent manipulator collisions in a shared workspace.
+
+#### 👁️ [Markerless Kinematics Pipeline *(In Active R&D)*](https://github.com/abouzk/mediapipe-hand-kinematics)
+*Applied machine learning pipeline for real-time biomechanical tracking.*
+* **Stack:** Python, Google MediaPipe, OpenCV
+* **Key Feature:** Architecting a system to extract 3D spatial joint coordinates from 2D video to eliminate reliance on wearable sensors.
 
 #### ⚡ Semi-Automated Welding Cell
 *Capstone Design Project focusing on industrial safety architecture.*
@@ -36,7 +40,7 @@ I am a Systems Engineering student at **RPI** focused on **Safety Architectures*
 * **Key Feature:** Designed a complete Safety Requirements Specification (SRS) to mitigate thermal and arc hazards.
 * **Sim-to-Real:** Validated reach analysis and collision zones in simulation before physical deployment.
 
-#### 🏎️ [Real-Time Embedded Motor Controller](https://github.com/abouzk/rpi-embedded-portfolio)
+#### 🏎️ [Real-Time Embedded Motor Controller](https://github.com/abouzk/msp432-embedded-controllers)
 *Bare-metal control system on TI MSP432 (ARM Cortex-M4).*
 * **Stack:** C, Register-Level Programming (No OS)
 * **Key Feature:** Achieved <10µs latency on quadrature encoder interrupts.
@@ -46,7 +50,9 @@ I am a Systems Engineering student at **RPI** focused on **Safety Architectures*
 
 ### 🔭 What I'm Learning Now
 * **Sim-to-Real Pipelines:** Integrating Nvidia Isaac Sim with ROS 2 for safety validation.
-* **Haptic Control:** Coupling Phantom Omni devices with digital twins for force-feedback teleoperation.
+* **Advanced Haptics:** Scaling current 3-DOF control loops to support 6-DOF Phantom Omni devices for force-feedback teleoperation.
+* **Computer Vision:** Utilizing MediaPipe for real-time spatial coordinate extraction.
+
 ---
 
 ### 📫 Connect with Me
