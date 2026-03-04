@@ -39,11 +39,11 @@ I am a Systems Engineering student at **RPI** focused on **Safety Architectures*
 * **Stack:** Python, Pygame
 * **Key Feature:** Artificially introducing motor control limitations to model sensorimotor control loops for ergonomic teleoperation design.
 
-#### ⚡ Industrial Automation & Safety Architecture (Capstone)
-*Systems design project focusing on industrial safety architecture for an automated welding workcell.*
-* **Stack:** ABB RobotStudio, RAPID, ISO Standards
-* **Key Feature:** Designed a complete Safety Requirements Specification (SRS) to mitigate thermal and arc hazards.
-* **Sim-to-Real:** Validated reach analysis and collision zones in simulation before physical deployment.
+#### ⚡ [Industrial Automation & Safety Architecture (ABB)](https://github.com/abouzk/industrial-robot-control-python)
+*Architecture and communication documentation for standard industrial platforms.*
+* **Stack:** ABB RobotStudio, RAPID, Python
+* **Key Feature:** Engineered a Python-to-RAPID bridge architecture utilizing RWS communication for remote hardware state latching.
+* **Safety:** Analyzed and documented standard industrial safety frameworks and hardware states for integration.
 
 #### 🏎️ [Real-Time Embedded Motor Controller](https://github.com/abouzk/msp432-embedded-controllers)
 *Bare-metal control system on TI MSP432 (ARM Cortex-M4).*
