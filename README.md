@@ -23,19 +23,24 @@ I am a Systems Engineering student at **RPI** focused on **Safety Architectures*
 
 ### 🚀 Featured Projects
 
-#### 🤖 [Haptic Teleoperation & Digital Twin](https://github.com/abouzk/isaacsim-surgical-teleop)
+#### 🤖 [Haptic Teleoperation & Digital Twins](https://github.com/abouzk/isaacsim-surgical-teleop)
 *Architecting a scalable, multi-phase teleoperation testbed in Nvidia Isaac Sim using ROS 2.*
 * **Stack:** ROS 2 Humble, Nvidia Isaac Sim, Python
 * **Key Feature:** Engineered a flexible input pipeline, currently mapping multi-modal inputs (keyboard, Xbox controller, and 3-DOF Novint Falcon) to a robotic digital twin.
 * **Safety:** Implementing virtual fixture algorithms to prevent manipulator collisions in a shared workspace.
 
-#### 👁️ [Markerless Kinematics Pipeline *(In Active R&D)*](https://github.com/abouzk/mediapipe-hand-kinematics)
+#### 👁️ [Computer Vision Kinematics Pipeline *(In Active R&D)*](https://github.com/abouzk/mediapipe-hand-kinematics)
 *Applied machine learning pipeline for real-time biomechanical tracking.*
 * **Stack:** Python, Google MediaPipe, OpenCV
-* **Key Feature:** Architecting a system to extract 3D spatial joint coordinates from 2D video to eliminate reliance on wearable sensors.
+* **Key Feature:** Architecting a system to extract 3D spatial joint coordinates from 2D video to eliminate reliance on physical wearable sensors.
 
-#### ⚡ Semi-Automated Welding Cell
-*Capstone Design Project focusing on industrial safety architecture.*
+#### 🧠 [HMI Accessibility & Sensorimotor Simulator](https://github.com/abouzk/hmi-accessibility-sim)
+*Pygame-based testbed for evaluating human performance under artificial latency and input jitter.*
+* **Stack:** Python, Pygame
+* **Key Feature:** Artificially introducing motor control limitations to model sensorimotor control loops for ergonomic teleoperation design.
+
+#### ⚡ Industrial Automation & Safety Architecture (Capstone)
+*Systems design project focusing on industrial safety architecture for an automated welding workcell.*
 * **Stack:** ABB RobotStudio, RAPID, ISO Standards
 * **Key Feature:** Designed a complete Safety Requirements Specification (SRS) to mitigate thermal and arc hazards.
 * **Sim-to-Real:** Validated reach analysis and collision zones in simulation before physical deployment.
@@ -51,7 +56,7 @@ I am a Systems Engineering student at **RPI** focused on **Safety Architectures*
 ### 🔭 What I'm Learning Now
 * **Sim-to-Real Pipelines:** Integrating Nvidia Isaac Sim with ROS 2 for safety validation.
 * **Advanced Haptics:** Scaling current 3-DOF control loops to support 6-DOF Phantom Omni devices for force-feedback teleoperation.
-* **Computer Vision:** Utilizing MediaPipe for real-time spatial coordinate extraction.
+* **HCI & Ergonomics:** Modeling the effects of latency and sensory noise on human-in-the-loop control systems.
 
 ---
 
