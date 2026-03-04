@@ -23,7 +23,7 @@ I am a Systems Engineering student at **RPI** focused on **Safety Architectures*
 
 ### 🚀 Featured Projects
 
-#### 🤖 [Haptic Teleoperation & Digital Twins](https://github.com/abouzk/isaacsim-surgical-teleop)
+#### 🤖 [Haptic Teleoperation & Digital Twins *(Active Development)*](https://github.com/abouzk/isaacsim-surgical-teleop)
 *Architecting a scalable, multi-phase teleoperation testbed in Nvidia Isaac Sim using ROS 2.*
 * **Stack:** ROS 2 Humble, Nvidia Isaac Sim, Python
 * **Key Feature:** Engineered a flexible input pipeline, currently mapping multi-modal inputs (keyboard, Xbox controller, and 3-DOF Novint Falcon) to a robotic digital twin.
@@ -34,7 +34,7 @@ I am a Systems Engineering student at **RPI** focused on **Safety Architectures*
 * **Stack:** Python, Google MediaPipe, OpenCV
 * **Key Feature:** Architecting a system to extract 3D spatial joint coordinates from 2D video to eliminate reliance on physical wearable sensors.
 
-#### 🧠 [HMI Accessibility & Sensorimotor Simulator](https://github.com/abouzk/hmi-accessibility-sim)
+#### 🧠 [HMI Accessibility & Sensorimotor Simulator *(Active Development)*](https://github.com/abouzk/hmi-accessibility-sim)
 *Pygame-based testbed for evaluating human performance under artificial latency and input jitter.*
 * **Stack:** Python, Pygame
 * **Key Feature:** Artificially introducing motor control limitations to model sensorimotor control loops for ergonomic teleoperation design.
