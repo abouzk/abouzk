@@ -23,7 +23,7 @@ I am a Systems Engineering student at **RPI** focused on **Safety Architectures*
 
 ### 🚀 Featured Projects
 
-#### 🤖 [Haptic Teleoperation & Digital Twins *(Active Development)*](https://github.com/abouzk/isaacsim-surgical-teleop)
+#### 🤖 [Haptic Teleoperation & Digital Twins (ROS2/Isaac Sim) *(Active Development)*](https://github.com/abouzk/isaacsim-surgical-teleop)
 *Architecting a scalable, multi-phase teleoperation testbed in Nvidia Isaac Sim using ROS 2.*
 * **Stack:** ROS 2 Humble, Nvidia Isaac Sim, Python
 * **Key Feature:** Engineered a flexible input pipeline, currently mapping multi-modal inputs (keyboard, Xbox controller, and 3-DOF Novint Falcon) to a robotic digital twin.
@@ -45,7 +45,7 @@ I am a Systems Engineering student at **RPI** focused on **Safety Architectures*
 * **Key Feature:** Engineered a Python-to-RAPID bridge architecture utilizing RWS communication for remote hardware state latching.
 * **Safety:** Analyzed and documented standard industrial safety frameworks and hardware states for integration.
 
-#### 🏎️ [Real-Time Embedded Motor Controller](https://github.com/abouzk/msp432-embedded-controllers)
+#### 🏎️ [Real-Time Embedded Motor Controller TI MSP432](https://github.com/abouzk/msp432-embedded-controllers)
 *Bare-metal control system on TI MSP432 (ARM Cortex-M4).*
 * **Stack:** C, Register-Level Programming (No OS)
 * **Key Feature:** Achieved <10µs latency on quadrature encoder interrupts.
