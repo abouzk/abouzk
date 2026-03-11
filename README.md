@@ -23,29 +23,29 @@ I am a Systems Engineering student at **RPI** focused on **Safety Architectures*
 
 ### 🚀 Featured Projects
 
-#### 🤖 [Haptic Teleoperation & Digital Twins (ROS2/Isaac Sim) *(Active Development)*](https://github.com/abouzk/isaacsim-surgical-teleop)
+#### 🤖 [Surgical Digital Twins & Haptic Teleoperation (ROS2/Isaac Sim) *(Active Development)*](https://github.com/abouzk/isaacsim-surgical-teleop)
 *Architecting a scalable, multi-phase teleoperation testbed in Nvidia Isaac Sim using ROS 2.*
 * **Stack:** ROS 2 Humble, Nvidia Isaac Sim, Python
 * **Key Feature:** Engineered a flexible input pipeline, currently mapping multi-modal inputs (keyboard, Xbox controller, and 3-DOF Novint Falcon) to a robotic digital twin.
 * **Safety:** Implementing virtual fixture algorithms to prevent manipulator collisions in a shared workspace.
 
-#### 👁️ [Computer Vision Kinematics Pipeline *(In Active R&D)*](https://github.com/abouzk/mediapipe-hand-kinematics)
+#### 👁️ [Real-Time Biomechanical Kinematics Pipeline (OpenCV/MediaPipe) *(In Active R&D)*](https://github.com/abouzk/mediapipe-hand-kinematics)
 *Applied machine learning pipeline for real-time biomechanical tracking.*
 * **Stack:** Python, Google MediaPipe, OpenCV
 * **Key Feature:** Architecting a system to extract 3D spatial joint coordinates from 2D video to eliminate reliance on physical wearable sensors.
 
-#### 🧠 [HMI Accessibility & Sensorimotor Simulator *(Active Development)*](https://github.com/abouzk/hmi-accessibility-sim)
+#### 🧠 [Sensorimotor HMI & Accessibility Simulator (Python) *(Active Development)*](https://github.com/abouzk/hmi-accessibility-sim)
 *Pygame-based testbed for evaluating human performance under artificial latency and input jitter.*
 * **Stack:** Python, Pygame
 * **Key Feature:** Artificially introducing motor control limitations to model sensorimotor control loops for ergonomic teleoperation design.
 
-#### ⚡ [Industrial Automation & Safety Architecture (ABB)](https://github.com/abouzk/industrial-robot-control-python)
+#### ⚡ [Industrial Automation & Remote State Control (ABB IRC5)](https://github.com/abouzk/industrial-robot-control-python)
 *Architecture and communication documentation for standard industrial platforms.*
 * **Stack:** ABB RobotStudio, RAPID, Python
 * **Key Feature:** Engineered a Python-to-RAPID bridge architecture utilizing RWS communication for remote hardware state latching.
 * **Safety:** Analyzed and documented standard industrial safety frameworks and hardware states for integration.
 
-#### 🏎️ [Real-Time Embedded Motor Controller TI MSP432](https://github.com/abouzk/msp432-embedded-controllers)
+#### 🏎️ [Real-Time Embedded Motor Controller (TI MSP432)](https://github.com/abouzk/msp432-embedded-controllers)
 *Bare-metal control system on TI MSP432 (ARM Cortex-M4).*
 * **Stack:** C, Register-Level Programming (No OS)
 * **Key Feature:** Achieved <10µs latency on quadrature encoder interrupts.
