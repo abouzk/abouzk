@@ -53,6 +53,14 @@ I am a Systems Engineering student at **RPI** focused on **Safety Architectures*
 
 ---
 
+### 📓 [Systems Engineering Notebook](https://github.com/abouzk/systems-engineering-notebook)
+I maintain a detailed engineering log documenting my architectural decisions, constraint analyses, sprint planning, and hardware-to-software integration strategies across all my active projects.
+  * *Recent Entries:*
+    * [Computer Vision Kinematics Pipeline Log](https://github.com/abouzk/mediapipe-hand-kinematics)
+    * [Haptic Teleoperation & Digital Twins (ROS2/Isaac Sim) Log](https://github.com/abouzk/isaacsim-surgical-teleop)
+
+---
+
 ### 🔭 What I'm Learning Now
 * **Sim-to-Real Pipelines:** Integrating Nvidia Isaac Sim with ROS 2 for safety validation.
 * **Advanced Haptics:** Scaling current 3-DOF control loops to support 6-DOF Phantom Omni devices for force-feedback teleoperation.
