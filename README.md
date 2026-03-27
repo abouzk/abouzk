@@ -29,8 +29,9 @@ I am a Systems Engineering student at **RPI** focused on **Safety Architectures*
 * **Key Feature:** Engineered a flexible input pipeline, currently mapping multi-modal inputs (keyboard, Xbox controller, and 3-DOF Novint Falcon) to a robotic digital twin.
 * **Safety:** Implementing virtual fixture algorithms to prevent manipulator collisions in a shared workspace.
 
-### Automated Welding Workcell — Electromechanical Subsystem (Capstone)
-* *Repo updates WIP*
+### 📂 [Automated Weld Motion Controller (Capstone)](https://github.com/abouzk/esp32-weld-motion-controller)
+*Electromechanical motion control for deterministic weld travel speed.*
+* *Repo WIP*
 
 #### 👁️ [Real-Time Biomechanical Kinematics Pipeline (OpenCV/MediaPipe) *(In Active R&D)*](https://github.com/abouzk/mediapipe-hand-kinematics)
 *Applied machine learning pipeline for real-time biomechanical tracking.*
